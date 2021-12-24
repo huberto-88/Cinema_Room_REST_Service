@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room REST Service/task/build/
+/Cinema Room REST Service/task/out/
+/Cinema Room REST Service/task/out/production/classes/
+/Topics/Exception handling/Four status codes/build/
+/Topics/Exception handling/Implement DELETE endpoint/build/
+/Topics/Exception handling/Improve the program/build/
+/Topics/Getting data from REST/Add annotations/build/
+/Topics/Getting data from REST/Getting all tasks/build/
+/Topics/Getting data from REST/Receive and return ID/build/
+/Topics/Getting data from REST/Return big JSON/build/
+/Topics/Getting data from REST/Two endpoints/build/
+/Topics/Getting data from REST/Welcome/build/
+/Topics/Handling requests with bodies/Adding new functionality/build/
+/Topics/Multidimensional array/Cinema/out/
+/Topics/Multidimensional array/Cinema/out/production/classes/
+/Topics/Posting and deleting data via REST/Deleting items/build/
+/Topics/Posting and deleting data via REST/Return query parameter/build/
+/Topics/Posting and deleting data via REST/Storing user names/build/
+/Topics/Posting and deleting data via REST/Web calculator/build/
+/Topics/The for-loop/Size of parts/out/
+/Topics/The for-loop/Size of parts/out/production/classes/
